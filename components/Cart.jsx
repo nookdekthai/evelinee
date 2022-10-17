@@ -100,7 +100,7 @@ const Cart = () => {
             <div className="btn-container">
           
 
-              <a href="https://lin.ee/3mlacrM" target="_blank" rel="noreferrer">
+              <a href="https://lin.ee/yv5egHG" target="_blank" rel="noreferrer">
           <button className='btn'>BUY</button>
         </a>
 
